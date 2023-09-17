@@ -1,7 +1,4 @@
-
-
-<h1 align="center">👋 Hi, welcome to my Github!</h1>
-<h1 align="center">🙎 I'm Bach Van Trung, frontend & backend developer.</h1>
+<h1 align="center">🙎 Hi, I'm Bach Van Trung, frontend & backend developer.</h1>
 <h2 align="center">About Me</h2>
  <p>
   <img src="https://badges.pufler.dev/visits/trungbach/github-profile"> 
